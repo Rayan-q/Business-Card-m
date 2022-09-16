@@ -64,14 +64,14 @@ body {
     margin-bottom: 24px;
 }
 
-.card .stats .section {
+.card .stats section {
     margin-bottom: 20px;
 }
-.card .stats .section h4 {
+.card .stats section h4 {
     font-size: 26px;
     margin: 10px 0px;
 }
-.card .stats .section span {
+.card .stats section span {
     color: var(--font-color);
     letter-spacing: 0.1rem;
     text-transform: uppercase;
