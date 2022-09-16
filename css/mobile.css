@@ -61,11 +61,11 @@ body {
     color: var(--font-color);
     font-size: 17px;
     line-height: 1.4;
-    margin-bottom: 44px;
+    margin-bottom: 40px;
 }
 
 .card .stats .section {
-    margin-bottom: 38px;
+    margin-bottom: 30px;
 }
 .card .stats .section h4 {
     font-size: 26px;
